@@ -36,6 +36,4 @@ We do not include or offer third party products or services on our website.
 Google
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. Google support.
 
-We use Google AdSense Advertising on our website.
-
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
